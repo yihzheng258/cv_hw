@@ -10,7 +10,7 @@
 using namespace cv;
 using namespace std;
 #define FRAME_WIDTH  360
-#define FRAME_HEIGHT  640
+#define FRAME_HEIGHT  64
 #define FRAME_FPS  30
 #define TRASITION_TIME 3
 #define IMAGE_TIME 1
