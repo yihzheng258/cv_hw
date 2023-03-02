@@ -1,0 +1,2 @@
+g++ myvedio.cpp `pkg-config --cflags --libs opencv4`
+g++ mytrain.cpp  `pkg-config --cflags --libs opencv4`  -ljsoncpp
